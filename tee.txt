@@ -1,0 +1,6 @@
+hard.ln
+origin.txt
+originDir
+sumbolDir.ln
+symbol.ln
+tee.txt

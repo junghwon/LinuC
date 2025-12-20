@@ -1,0 +1,1 @@
+ls: /eee: No such file or directory
