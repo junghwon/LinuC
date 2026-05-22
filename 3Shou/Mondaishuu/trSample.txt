@@ -1,2 +1,5 @@
 This file is tr command sample file.
 This is a sample file of tr command.
+This file is tr command sample file.
+This is a sample file of tr command.
+file is tr command sample file.
